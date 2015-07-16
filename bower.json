@@ -1,0 +1,19 @@
+{
+  "name": "marionette.virtualdom",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jshthornton/marionette.virtualdom",
+  "authors": [
+    "Joshua Thornton <jshthornton@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "virtual-dom": "Matt-Esch/virtual-dom#~2.0.1"
+  }
+}
