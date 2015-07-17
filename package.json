@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/jshthornton/marionette.virtualdom#readme",
   "dependencies": {
+    "lodash": "^3.10.0",
     "virtual-dom": "matt-esch/virtual-dom"
   }
 }
